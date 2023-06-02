@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-![imagem](https://www.logolynx.com/images/logolynx/90/907110d10f755cce87889028959eabc0.jpeg)
+
 
 <!--
+![imagem](https://www.logolynx.com/images/logolynx/90/907110d10f755cce87889028959eabc0.jpeg)
+Essa imagem acima ficou muito grande, tenho que redimencioná-la.
+
 **TenissonPaiva/TenissonPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
