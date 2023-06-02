@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.logolynx.com%2Fimages%2Flogolynx%2F0b%2F0b1680b66f4e5050997f14eb9cdc26a1.jpeg&tbnid=ZpMshoDYhahOZM&vet=12ahUKEwi5vqHH6KT_AhUjJrkGHd6RAVkQMyhDegQIARBp..i&imgrefurl=https%3A%2F%2Fwww.logolynx.com%2Ftopic%2Fsenna&docid=1n5FcW7c-ScF9M&w=474&h=306&q=senna%20logo&ved=2ahUKEwi5vqHH6KT_AhUjJrkGHd6RAVkQMyhDegQIARBp
+![imagem](https://www.logolynx.com/images/logolynx/90/907110d10f755cce87889028959eabc0.jpeg)
 
 <!--
 **TenissonPaiva/TenissonPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
